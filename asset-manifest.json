@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/usense/static/css/main.b5320759.css",
+    "main.js": "/usense/static/js/main.0583c4e3.js",
+    "index.html": "/usense/index.html",
+    "main.b5320759.css.map": "/usense/static/css/main.b5320759.css.map",
+    "main.0583c4e3.js.map": "/usense/static/js/main.0583c4e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5320759.css",
+    "static/js/main.0583c4e3.js"
+  ]
+}
